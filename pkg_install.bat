@@ -1,0 +1,1 @@
+pip install qiskit qiskit-aer jupyterlab matplotlib numpy scipy pylatexenc ipykernel
