@@ -1,0 +1,33 @@
+Your First Reading Assignment
+
+Now for something a little different.
+
+Don't search the web.
+
+Instead, think about these questions yourself first and jot down your answers. They don't need to be "correct"—they're a baseline for us to build on.
+
+What is a quantum computer?
+How is it different from a classical computer?
+Why can't classical computers simply become infinitely faster?
+Why do people say quantum computers are good at only certain kinds of problems?
+What do you hope to gain from this course beyond "learning quantum computing"?
+
+We'll revisit these answers at the end of Sprint 1 and compare how your understanding has evolved.
+
+------------------------------------------------------------------------------------------------------------
+
+Mini Quiz #1 (No Pressure)
+
+Just answer from your current intuition.
+
+What language does Qiskit primarily use?
+- Python
+Why do we create a virtual environment?
+- create a safe environment to work in and not affect the laptop/desktop main environment
+Why do we generate a requirements.txt file?
+- retain necessary packages for deployment or the need to share the code with another developer. Or if upgrading the current laptop/desktop.
+Why do we use Git before writing any code?
+- to set a repository where the code will reside. All projects should have some initial setup in a repository before beginning work.
+What part of today's setup is completely new to you, if any?
+- Using Qiskit
+
