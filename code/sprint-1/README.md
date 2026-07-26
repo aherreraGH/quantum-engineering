@@ -15,10 +15,10 @@ Estimated time: __45–60__ minutes
 | Lesson | Description |
 |---------|-------------|
 | 01_first_circuit.py | Build and print a simple quantum circuit |
-| 02_x_gate.py | Demonstrate how the x gate is applied |
-| 03_h_gate.py | Demonstrate how the Hadamard gate is applied |
-| 04_h_gate_twice.py | What happens when the h() call is made twice BEFORE the measure call |
-| 05_h_gate_twice_measure_each.py | What happens when the h() call is made twice, but with the measure call after each |
+| 02_x_gate.py | Explore the Pauli-X gate and how it flips a qubit's state |
+| 03_h_gate.py | Introduce superposition using the Hadamard gate |
+| 04_h_gate_twice.py | Demonstrate why applying the Hadamard gate twice restores the original state |
+| 05_h_gate_twice_measure_each.py | Observe how measurement changes the evolution of a quantum circuit |
 
 ## Questions Answered
 
