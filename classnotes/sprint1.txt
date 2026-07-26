@@ -31,3 +31,53 @@ Why do we use Git before writing any code?
 What part of today's setup is completely new to you, if any?
 - Using Qiskit
 
+-------------------------------------------
+
+The Gates You'll Actually Use
+
+For about 90% of quantum programming, you'll repeatedly encounter a relatively small set.
+
+Single-Qubit Gates
+Gate	Purpose
+I	Identity (does nothing)
+X	Flip 0 ↔ 1
+Y	Flip + phase
+Z	Phase flip
+H	Hadamard
+S	Quarter phase rotation
+T	Eighth phase rotation
+SX	Square-root of X
+RX	Rotation around X-axis
+RY	Rotation around Y-axis
+RZ	Rotation around Z-axis
+
+
+----
+
+Two-Qubit Gates
+
+These are where quantum computing becomes interesting.
+
+Examples include:
+
+CX (Controlled-X / CNOT)
+CY
+CZ
+CH
+SWAP
+iSWAP
+ECR
+
+Most quantum algorithms rely heavily on these because they allow qubits to interact.
+
+---------
+
+Three-Qubit Gates
+
+Examples:
+
+Toffoli (CCX)
+Fredkin (CSWAP)
+
+These are less common but extremely important in reversible computing and error correction.
+
