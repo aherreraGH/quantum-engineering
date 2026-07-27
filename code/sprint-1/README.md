@@ -1,4 +1,4 @@
-# SPRINT 1
+# SPRINT 1 - Building basic quantum circuits
 
 ## Objectives
 
