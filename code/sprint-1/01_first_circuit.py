@@ -1,4 +1,5 @@
 from qiskit import QuantumCircuit
+
 # That simulator lets us develop quantum software on an ordinary laptop
 from qiskit_aer import AerSimulator
 

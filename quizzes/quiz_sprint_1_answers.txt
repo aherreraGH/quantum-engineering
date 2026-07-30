@@ -1,0 +1,25 @@
+1. What is a qubit?
+A qubit is a slot or a state whereas there is a deterministic value 1 or 0.
+
+2. How does a qubit differ from a classical bit?
+A qubit does not have measured output
+
+3. What happens when a qubit is measured?
+The result determines how many times 0 or 1 has been met.
+
+4. What is the default state of a newly created qubit in Qiskit?
+0
+or 
+|0>
+
+5. Write a minimal Qiskit program that creates one qubit and measures it (imports not required)
+
+# import qiskit classes
+from qiskit import QuantumCircuit
+from qiskit_aer import AerSimulator
+# create the circuit, ensure the circuit can take in 1 qubit and 1 classical as minimual values
+qc = QuantumCircuit(1, 1)
+# apply the measurement
+qc.measure(0, 0)
+# display the circuit
+print(qc)
