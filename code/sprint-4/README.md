@@ -18,6 +18,9 @@
 | 02 | how to manipulate qubits independently |
 | 03 | how classical bit mapping works |
 | 04 | why two qubits in superposition produce four outcomes |
+| 04 | why H alone creates superposition |
+| 04 | why CX alone does not create entanglement |
+| 04 | why H + CX together do |
 | 05 | what a controlled operation does |
 | 06 | why a CX gate alone does not create entanglement |
 
